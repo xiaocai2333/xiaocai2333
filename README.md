@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+![xiaocai2333's github stats](https://github-readme-stats.vercel.app/api?username=xiaocai2333)
+
 <!--
-**xiaocai2333/xiaocai2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**longjiquan/longjiquan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
