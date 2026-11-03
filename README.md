@@ -52,8 +52,6 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiaocai2333&theme=tokyonight" width="100%" alt="Profile details"/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xiaocai2333&theme=tokyonight" height="165" alt="Stats"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xiaocai2333&theme=tokyonight" height="165" alt="Top languages by commit"/>
 
